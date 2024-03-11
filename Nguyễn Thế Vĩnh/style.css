@@ -323,6 +323,10 @@ header .navbar ul li a:hover{
     padding-bottom: 2rem;
 }
 
+.contact .row .content .info{
+    width: 50%;
+}
+
 .contact .row .content .info h3{
     display: flex;
     align-items: center;
@@ -336,6 +340,12 @@ header .navbar ul li a:hover{
 .contact .row .content .info h3 i{
     padding-right: 1rem;
     color:var(--yellow);
+}
+
+.contact-social {
+    width: 50%;
+    font-size: 20px;
+    color: #eee;
 }
 
 .top{
